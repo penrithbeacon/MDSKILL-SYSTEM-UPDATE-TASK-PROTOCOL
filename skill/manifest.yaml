@@ -1,0 +1,31 @@
+name: SYSTEM — Update Task Protocol (UT S)
+id: com.penrithbeacon.mdskills.system-update-task-protocol
+uuid: 45d49924-2169-4510-b88f-53e53c0261d4
+version: 1.4.0
+description: App-owned session protocol for the Update Task CUDI flow
+synopsis: Defines the exact sequence of API calls the AI must make to read and revise an existing task's
+  record through the app's own API instead of editing any file directly.
+author: Anthony Harrison
+authorEmail: widgets@penrithbeacon.com
+entry: SKILL.md
+system_protocol_version: 1.0.0
+license: MIT
+minimum_runtime: 1.0.0
+capabilities: []
+permissions: {}
+homepage: https://openaiskillpackage.com/
+repository: https://github.com/penrithbeacon/MDSKILL-SYSTEM-UPDATE-TASK-PROTOCOL
+tags:
+- system
+- protocol
+- task-master
+- cudi
+- aistarter
+type: procedural
+changelog:
+- version: 1.4.0
+  changes:
+  - Initial standalone publication of SYSTEM — Update Task Protocol (UT S) as its own AI Skill Package,
+    split out of Cup and Ring Task Master's built-in system-skills.js so it can be bundled into the AI
+    Skill Package Retrieval Protocol's companion .aistarter system-starter set, verified independently
+    through the Cup and Ring Registry — the same skill, not a copy or a sample.
