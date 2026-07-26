@@ -1,7 +1,7 @@
 name: SYSTEM — Update Task Protocol (UT S)
 id: com.penrithbeacon.mdskills.system-update-task-protocol
 uuid: 45d49924-2169-4510-b88f-53e53c0261d4
-version: 1.4.0
+version: 1.4.1
 description: App-owned session protocol for the Update Task CUDI flow
 synopsis: Defines the exact sequence of API calls the AI must make to read and revise an existing task's
   record through the app's own API instead of editing any file directly.
@@ -13,7 +13,7 @@ license: MIT
 minimum_runtime: 1.0.0
 capabilities: []
 permissions: {}
-homepage: https://openaiskillpackage.com/
+homepage: https://penrithbeacon.com/
 repository: https://github.com/penrithbeacon/MDSKILL-SYSTEM-UPDATE-TASK-PROTOCOL
 tags:
 - system

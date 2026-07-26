@@ -2,12 +2,12 @@
 
 **MD Skill UUID:** `45d49924-2169-4510-b88f-53e53c0261d4`
 **Package ID:** `com.penrithbeacon.mdskills.system-update-task-protocol`
-**Version:** 1.4.0
+**Version:** 1.4.1
 **Type:** procedural
 **Author:** Anthony Harrison
 **Author Email:** widgets@penrithbeacon.com
 **License:** MIT
-**Homepage:** https://openaiskillpackage.com/
+**Homepage:** https://penrithbeacon.com/
 **Tags:** system, protocol, task-master, cudi, aistarter
 
 App-owned session protocol for the Update Task CUDI flow
